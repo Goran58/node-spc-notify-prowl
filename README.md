@@ -2,7 +2,7 @@
 Send events from Siemens SPC intrusion alarm to iPhone and iPad by Prowl notification service.
 
 To be able to use this module you need to have:
-- An account and an api key from [](http://http://www.prowlapp.com/)
+- An account and an api key from [Prowl](http://www.prowlapp.com/)
 - SPC Web Gateway from [Lundix IT](http://www.lundix.se/smarta-losningar). SPC Web Gateway is providing a generic open REST and Websocket interface to Siemens SPC intrusion system.
 
 ## Installation
