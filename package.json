@@ -1,0 +1,16 @@
+{
+  "name": "spc-notify-prowl",
+  "version": "0.10.0",
+  "description": "Send events from Siemens SPC alarm by Prowl",
+  "author": "Goran Lundquist <info@lundix.se>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Goran58/node-spc-notify-prowl.git"
+  },
+  "dependencies": {
+    "websocket": "*",
+    "node-prowl": "*"
+  },
+  "engine": "node 0.10.x",
+  "main": "node-spc-notify-prowl.js"
+}
